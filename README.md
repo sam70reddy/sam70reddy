@@ -2,7 +2,7 @@
 
 ### Software Engineer | Backend Development | AI/ML
 
-I'm a **B.Tech Information Technology graduate from NIT Silchar** with hands-on experience in **backend development, distributed systems, and AI/ML**.
+I'm a **B.Tech CSE graduate from NIT Silchar** with hands-on experience in **backend development, distributed systems, and AI/ML**.
 
 I enjoy building **scalable backend systems, intelligent applications, and full-stack projects** while continuously improving my problem-solving and software engineering skills.
 
